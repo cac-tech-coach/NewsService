@@ -1,7 +1,4 @@
-{
-	"state": true,
-	"msg": "",
-	"data": [{
+[{
 			"uniquekey": "f27589a0ea4ff36cdfc8b4b03693bbde",
 			"title": "王中王！德约一稳定江山，大满贯稳步追赶或成最终赢家",
 			"date": "2019-07-15 10:50",
@@ -319,5 +316,4 @@
 			"url": "http:\/\/mini.eastday.com\/mobile\/190715101244052.html",
 			"thumbnail_pic_s": "20190715101244_e81714826e04f16bbf44388557ff87a5_1_mwpm_03200403.jpg"
 		}
-	]
-}
+]
