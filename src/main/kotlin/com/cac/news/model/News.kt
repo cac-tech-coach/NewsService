@@ -26,7 +26,7 @@ data class News(
     @SerializedName("date")
     val date: String,
     @SerializedName("category")
-    val category: Int,
+    var category: String,
     @SerializedName("author_name")
     val authorName: String,
     @SerializedName("url")

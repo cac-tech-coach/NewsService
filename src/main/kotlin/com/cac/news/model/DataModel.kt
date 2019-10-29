@@ -19,12 +19,12 @@ package com.thoughtworks.cac.news.data.entities
 import com.google.gson.annotations.SerializedName
 
 data class DataModel<T>(
-    @SerializedName("state")
-    val state: Boolean,
-    @SerializedName("msg")
-    val message: String,
-    @SerializedName("count")
-    val count: Int,
-    @SerializedName("data")
-    val data: List<T>?
+        @SerializedName("state")
+        val state: Boolean,
+        @SerializedName("msg")
+        val message: String,
+        @SerializedName("totalCount")
+        val totalCount: Int,
+        @SerializedName("data")
+        val data: List<T>?
 )
